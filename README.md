@@ -8,7 +8,7 @@
 
 [eolian.cl webpage backend repo](https://github.com/checopa/web-page-eolian-backend)
 
-[eolain tour webpage repo](https://github.com/checopa/eolian-tour-web-page)
+[eolian tour webpage repo](https://github.com/checopa/eolian-tour-web-page)
 
 ## Visualization
 
