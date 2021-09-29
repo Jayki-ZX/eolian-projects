@@ -1,6 +1,6 @@
-[testing links](https://jayki-zx.github.io/eolian-projects/#Telemetry)
+[testing links](#telemetry)
 
-## Telemetry
+## Telemetry <a name="telemetry"></a>
 
 ## Web Development
 
