@@ -13,5 +13,6 @@
 ## Visualization
 
 [Frontend repo](https://github.com/mvargas33/Eolian-Auriga-frontend)
+[Fenix 3D](https://github.com/Jayki-ZX/3d-auriga)
 
 ## Modelling and optimización
