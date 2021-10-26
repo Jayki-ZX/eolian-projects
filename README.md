@@ -1,5 +1,3 @@
-[testing links](#telemetry)
-
 ## Telemetry <a name="telemetry"></a>
 
 [Telemetry repo](https://github.com/mvargas33/Eolian-Auriga-backend)
