@@ -1,6 +1,8 @@
 ## Telemetry <a name="telemetry"></a>
 
-[Telemetry repo](https://github.com/mvargas33/Eolian-Auriga-backend)
+[Backend](https://github.com/mvargas33/Eolian-Auriga-backend)
+[Frontend (actual)](https://github.com/mvargas33/Eolian-Auriga-frontend)
+[Frontend (WIP)](https://github.com/Jayki-ZX/ea-front-end)
 
 ## Web Development
 
@@ -11,10 +13,8 @@
 [eolian tour webpage repo](https://github.com/checopa/eolian-tour-web-page)
 
 
-## Visualization
-
-[Frontend repo](https://github.com/mvargas33/Eolian-Auriga-frontend)
+## Misc
 
 [Fenix 3D](https://github.com/Jayki-ZX/3d-auriga)
+[API electrolineras Chile](https://github.com/Jayki-ZX/api-electrolineras-chile)
 
-## Modelling and optimización
