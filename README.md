@@ -1,7 +1,9 @@
 ## Telemetry <a name="telemetry"></a>
 
 [Backend](https://github.com/mvargas33/Eolian-Auriga-backend)
+
 [Frontend (actual)](https://github.com/mvargas33/Eolian-Auriga-frontend)
+
 [Frontend (WIP)](https://github.com/Jayki-ZX/ea-front-end)
 
 ## Web Development
@@ -16,5 +18,6 @@
 ## Misc
 
 [Fenix 3D](https://github.com/Jayki-ZX/3d-auriga)
+
 [API electrolineras Chile](https://github.com/Jayki-ZX/api-electrolineras-chile)
 
