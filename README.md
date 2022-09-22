@@ -1,6 +1,6 @@
 ## Telemetry <a name="telemetry"></a>
 
-[Backend](https://github.com/mvargas33/Eolian-Auriga-backend)
+[Backend](https://github.com/Jayki-ZX/ea-back-end/)
 
 [Frontend (actual)](https://github.com/mvargas33/Eolian-Auriga-frontend)
 
